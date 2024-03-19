@@ -1,0 +1,30 @@
+props
+insert twelve
+props
+insert nine
+gen nine
+insert eleven
+insert ten
+traverse
+gen 10
+props
+insert five
+insert four
+insert three
+insert eight
+insert one
+insert two
+traverse
+gen eight
+insert six
+insert seven
+props
+delete two
+delete three
+delete five
+props
+delete seven
+traverse
+gen seven
+props
+remove insert
